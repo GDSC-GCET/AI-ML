@@ -8,7 +8,7 @@ We are a passionate team of tech enthusiasts with a keen interest in AI/ML techn
 
 ## Team
 
-### ORGANISATION HEAD
+### Organisation Head
 
 - Abhinay Goswami( Github Link - [Abhinay8506](https://github.com/Abhinay8506) )
 
