@@ -1,6 +1,6 @@
 # GCET-GDSC AI/ML Domain 🤖
 
-Welcome to the AI/ML Domain at GCET-GDSC! This space is dedicated to exploring the exciting world of Artificial Intelligence and Machine Learning.
+Welcome to the AI/ML Domain at GDSC-GCET! This space is dedicated to exploring the exciting world of Artificial Intelligence and Machine Learning.
 
 ## About Us
 
