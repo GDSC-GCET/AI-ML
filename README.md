@@ -12,7 +12,11 @@ We are a passionate team of tech enthusiasts with a keen interest in AI/ML techn
 
 - Abhinay Goswami( Github Link - [Abhinay8506](https://github.com/Abhinay8506) )
 
-### Executive Members
+### Domain Head
+
+- Anubhav Hooda
+
+### Domain Executive Members
 
 - Priyanshu ( Github Link - [Priyanshu085](https://github.com/Priyanshu085) )
 - [Shubham Kumar] ( GitHub Link - [Shubh1777](https://github.com/shubh1777) )
